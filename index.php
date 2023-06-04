@@ -15,6 +15,7 @@
     <div class="container">
         <p class="h1 text-center mt-3">Data Siswa</p>
         <a href="form_simpan.php" class="btn btn-primary mt-5">Tambah Data</a>
+        <a href="proses_pdf.php" class="btn btn-primary mt-5">PDF</a>
 
         <table class="table table-secondary table-striped table-hover mt-3">
             <thead>
